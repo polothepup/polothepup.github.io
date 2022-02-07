@@ -6,11 +6,11 @@ body {
 
 h1 {
 	text-align: center;
-	padding-top: 100px;
+	margin-top: 100px;
 	font-family: Nunito;
 }
 
 #poloref {
 	width: 70%;
-	align-content: center;
+	align-items: center;
 }
